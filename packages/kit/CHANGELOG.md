@@ -1,5 +1,20 @@
 # @sveltejs/kit
 
+## 3.0.0-next.5
+### Patch Changes
+
+
+- feat: send periodic `keep-alive` SSE comments from `query.live` to prevent idle-timeout errors ([#16063](https://github.com/sveltejs/kit/pull/16063))
+
+
+- fix: support `exactOptionalPropertyTypes` for optional form schema fields ([#15866](https://github.com/sveltejs/kit/pull/15866))
+
+
+- fix: sort directory entries when building the route manifest so node indices are deterministic across runtimes (e.g. Bun and Node) ([#16074](https://github.com/sveltejs/kit/pull/16074))
+
+
+- fix: include hoisted packages in Vite's `server.fs.allow` list ([#15998](https://github.com/sveltejs/kit/pull/15998))
+
 ## 3.0.0-next.4
 ### Patch Changes
 

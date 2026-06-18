@@ -1,5 +1,11 @@
 # @sveltejs/enhanced-img
 
+## 1.0.0-next.1
+### Minor Changes
+
+
+- feat: add configuration options ([#15354](https://github.com/sveltejs/kit/pull/15354))
+
 ## 1.0.0-next.0
 ### Major Changes
 
