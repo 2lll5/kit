@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 2.66.1
+### Patch Changes
+
+
+- fix: support `exactOptionalPropertyTypes` for optional form schema fields ([#15866](https://github.com/sveltejs/kit/pull/15866))
+
 ## 2.66.0
 ### Minor Changes
 
